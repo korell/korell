@@ -1,4 +1,5 @@
-### Hi there 👋
+### Salut 👋
+Je suis développeur web front-end senior.
 
 <!--
 **korell/korell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
